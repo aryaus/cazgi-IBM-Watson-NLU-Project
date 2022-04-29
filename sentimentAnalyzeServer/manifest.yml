@@ -1,7 +1,7 @@
 ---
 applications:
 - path: .
-  name: arya-278-sentiment-analyzer #change to be unique in IBM Cloud
+  name: arya-279-sentiment-analyzer #change to be unique in IBM Cloud
   buildpacks: [https://github.com/cloudfoundry/nodejs-buildpack]
   memory: 256M
   instances: 1
